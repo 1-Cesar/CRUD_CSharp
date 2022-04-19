@@ -1,8 +1,14 @@
 <h1>CRUD - Cadastro de Clientes / Windows Forms </h1>
 
 <h2> Tela Inicial </h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92181625/164110032-afe763b5-5ca8-4bd5-a0a7-7934441c4d05.png">
+</div>
 
 <h2> Tela de Registro </h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92181625/164110031-399b856d-109a-418c-9b12-cb33276429c2.png">
+</div>
 
 <h2> Sobre este Projeto </h2>
 
@@ -11,6 +17,10 @@
   ter as informações de seus clientes prontamente disponíveis</p>
 <p>Também foi realizado a verificação de cada campo, onde o usuário pode digitar apenas o que o campo solicita. Por exemplo: num campo de telefone não é possível
   digitar letras. Nesse caso o sistema acusa o erro (pintando a label de vermelho). Também não é possível efetuar registros em branco.<p>
+    
+
+  ![erro](https://user-images.githubusercontent.com/92181625/164110030-cd776a18-e42d-4afd-ba50-38423f7ad974.png)
+
     
 <h2>Por que?</h2>
 
@@ -40,5 +50,5 @@ Clique aqui para me enviar um e-mail <a href="mailto:cesar.desenvolvedor@gmail.c
   git cd CRUD_Basico
  </code>
 
-<h4>Muito Obrigado por sua Visita !</h4>
+<h4 align="center">Muito Obrigado por sua Visita !</h4>
  
